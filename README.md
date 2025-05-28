@@ -1,6 +1,7 @@
 ## BOM
-I have used 9 keyboard switches, a rotary encoder, and an OLED. The OLED goes under the big rectangualar hole, the rotary encoder in the squarish one, and the main switches and stuff in the last hole as shown below:
-![image](https://github.com/user-attachments/assets/da51b0e6-6aa7-42e6-ab33-3a10632adaa7)
+I have used 9 keyboard switches, a rotary encoder, and an OLED. The OLED goes under the big rectangualar hole, the rotary encoder in the left squarish one, the leds will be visible throught the right square hole, and the main switches and stuff in the last hole as shown below:
+![image](https://github.com/user-attachments/assets/6eee76b4-b3fb-4b19-a219-bb045a4f12d5)
+
 
 I used the following schematic:
 ![image](https://github.com/user-attachments/assets/1b48e3e7-c5cf-44d5-8673-a565c47f772c)
