@@ -45,7 +45,7 @@ encoder_handler.map = [
 PAWD = KC.MACRO(
     "7",
     Delay(300),
-    "890987"
+    "-------" #censored
 )
 
 CTV = KC.MACRO(
