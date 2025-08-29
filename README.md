@@ -1,9 +1,7 @@
 ## TH9K
 A 9-key Macro pad with 6 LEDs, an OLED and a rotary encoder designed to go under the space bar so your thumbs too can feel useful.
 
-![1](https://github.com/user-attachments/assets/59a047ff-f74c-4102-8cf8-04a8b8d71604)\
-![1](https://github.com/user-attachments/assets/30eabf44-3254-4df7-8991-907d56647e5b)
-
+![1](https://github.com/user-attachments/assets/f61399f1-e8e4-485b-96a6-6d85da3f72c4)
 
 ## BOM
 - 9x KeyBoard switch
